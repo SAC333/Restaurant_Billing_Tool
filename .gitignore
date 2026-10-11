@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+data/*.db
+data/*.db-*
+receipts/
+.pytest_cache/
+
+# Generated documentation PDF and its generator script
+*.pdf
+gen_doc.py
